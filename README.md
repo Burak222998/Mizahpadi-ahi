@@ -1,2 +1,2 @@
-# Mizahpadi-ahi
+# Mizahpadisahi
 Opsiyonel
