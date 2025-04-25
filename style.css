@@ -1,0 +1,33 @@
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #222;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  margin: 1rem 0.5rem;
+  background: #0077cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+footer {
+  background: #eee;
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
